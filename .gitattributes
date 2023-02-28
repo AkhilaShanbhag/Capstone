@@ -1,2 +1,4 @@
 *.h5 filter=lfs diff=lfs merge=lfs -text
 hair_densenet_model.h5 filter=lfs diff=lfs merge=lfs -text
+hair_densenet_final[[:space:]].ipynb filter=lfs diff=lfs merge=lfs -text
+hair_densenet_final.ipynb filter=lfs diff=lfs merge=lfs -text
